@@ -1,0 +1,26 @@
+{
+  "name": "code-execution-ci",
+  "version": "1.0.0",
+  "description": "![CI](https://github.com/SIDDU2402/Code_Execution-API/actions/workflows/ci.yml/badge.svg)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SIDDU2402/code-execution-ci.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SIDDU2402/code-execution-ci/issues"
+  },
+  "homepage": "https://github.com/SIDDU2402/code-execution-ci#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  },
+  "devDependencies": {
+    "eslint": "^9.31.0"
+  }
+}
