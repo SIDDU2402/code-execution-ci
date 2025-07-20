@@ -1,6 +1,6 @@
 # Code Execution API
 
-![CI](https://github.com/SIDDU2402/Code_Execution-API/actions/workflows/ci.yml/badge.svg)
+![CI](https://github.com/SIDDU2402/code-execution-ci/actions/workflows/ci.yml/badge.svg)
 
 This project provides an API to execute code securely using a sandboxed environment.
 
